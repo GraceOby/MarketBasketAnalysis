@@ -1,4 +1,7 @@
 # Market Basket Analysis for e-Commerce Store
+<div style="text-align: center">
+  ![word-chart](https://github.com/GraceOby/MarketBasketAnalysis/blob/main/Market%20Basket%20Analysis/word-chart.png)
+</div>
 
 ### Description
 
