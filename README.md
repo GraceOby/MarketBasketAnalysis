@@ -1,7 +1,4 @@
 # Market Basket Analysis for e-Commerce Store
-<div align:center>
-  ![word-chart]("https://github.com/GraceOby/MarketBasketAnalysis/blob/main/Market%20Basket%20Analysis/word-chart.png")
-</div>
 
 ### Description
 
@@ -16,6 +13,9 @@ The `Apriori algorithm` is a classic algorithm used for association rule mining 
 - Apriori Algorithm Application
 - Result Interpretation
 
+[Skip to Project Repo](https://github.com/GraceOby/MarketBasketAnalysis/blob/main/Market%20Basket%20Analysis/market_basket_analysis.ipynb)
+
+
 <b>This project is fully Python based - Utilizing Jupyter Notebook's IDE, MLEXTEND's `apriori` and `association rule`</b>
 
 `pip install mlxtend`
@@ -24,4 +24,4 @@ The `Apriori algorithm` is a classic algorithm used for association rule mining 
 
 `from mlxtend.frequent_patterns import association_rules`
 
-[Skip to Project Repo](https://github.com/GraceOby/MarketBasketAnalysis/blob/main/Market%20Basket%20Analysis/market_basket_analysis.ipynb)
+![word-chart](https://github.com/GraceOby/MarketBasketAnalysis/blob/main/Market%20Basket%20Analysis/word-chart.png)
