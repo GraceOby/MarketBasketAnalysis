@@ -21,5 +21,4 @@ The `Apriori algorithm` is a classic algorithm used for association rule mining 
 
 `from mlxtend.frequent_patterns import association_rules`
 
-
-
+[Skip to Project Repo](https://github.com/GraceOby/MarketBasketAnalysis/blob/main/Market%20Basket%20Analysis/market_basket_analysis.ipynb)
