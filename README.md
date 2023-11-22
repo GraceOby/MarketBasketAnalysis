@@ -15,7 +15,7 @@ The `Apriori algorithm` is a classic algorithm used for association rule mining 
 
 [Skip to Project Repo](https://github.com/GraceOby/MarketBasketAnalysis/blob/main/Market%20Basket%20Analysis/market_basket_analysis.ipynb)
 
-
+### Installations
 <b>This project is fully Python based - Utilizing Jupyter Notebook's IDE, MLEXTEND's `apriori` and `association rule`</b>
 
 `pip install mlxtend`
